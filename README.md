@@ -1,4 +1,11 @@
 ### Hi there 👋
+###
+### Contact us
+### 
+### @ma1dee (Founder)
+### t.me/ruinpvp - Telegram Channel
+### @ruinpvpcom - Twitter
+###
 
 <!--
 **RuinPvP/ruinpvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

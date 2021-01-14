@@ -2,7 +2,7 @@
 ###
 ### Contact us
 ### 
-### @ma1dee (Founder)
+### @ma1dee (Founder's telegram)
 ### t.me/ruinpvp - Telegram Channel
 ### @ruinpvpcom - Twitter
 ###
